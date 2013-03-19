@@ -1,0 +1,6 @@
+Local de encontrar o padrão cron
+http://quartz-scheduler.org/documentation/quartz-1.x/tutorials/crontrigger
+
+Tutorial que envolve as 2 versões
+http://www.mkyong.com/java/quartz-2-scheduler-tutorial/
+
